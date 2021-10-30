@@ -1,4 +1,1 @@
 tornado==6.1
-numpy==1.21.3
-opencv-contrib-python==4.5.4.58
-imutils==0.5.4
